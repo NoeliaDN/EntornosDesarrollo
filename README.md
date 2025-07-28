@@ -1,6 +1,6 @@
-# EntornosDesarrollo
+# Entornos de Desarrollo
 
-Prácticas Entornos de Desarrollo (1er año de DAM):
+Prácticas y ejercicios de Entornos de Desarrollo (1er año de DAM):
 - Tipos de pruebas
 - Automatización
 - Debug
